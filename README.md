@@ -46,3 +46,9 @@ Preview the generated note without writing it:
 ```bash
 python mindspeak.py /path/to/voice-note.m4a --dry-run
 ```
+
+Run the desktop UI:
+
+```bash
+python mindspeak_ui.py
+```
